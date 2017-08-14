@@ -1,15 +1,15 @@
 <h1>Simulating drugs effect on viruses</h1>
-In this write up, I will summarize the results of my simulation of viruses population growth in a patient. The simulation starts without drug treatment to observe the growth of the virus population and moves on to simulating drug treatment effect on the virus population along with the effect of delayed treatment.  
+In this write up, I will summarize the results of my simulation of viruses population growth in a patient. The simulation starts without drug treatment to observe the growth of the virus population and moves on to simulating drug treatment effect on the virus population along with the effect of delayed treatment. <br> 
 
 
 The simulation consist of a patient class and a virus class.
-100 Viruses are injected into the patient body.
+100 Viruses are injected into the patient body.<br>
 
 
-The growth of the virus population is simulated using:
-1- The possibility of the immunity system of the patient clearing the virus unit
-2- The possibility of a mutation in the virus form to appear, making it resistant to treatment
-3- The max population of the virus due to limitation of resources.
+The growth of the virus population is simulated using:<br>
+1- The possibility of the immunity system of the patient clearing the virus unit<br>
+2- The possibility of a mutation in the virus form to appear, making it resistant to treatment<br>
+3- The max population of the virus due to limitation of resources.<br>
 
 
 In all experiments, the virus was initiated without any resistance to drugs. Yet, the resistance was present after an amount of simulation due to possibility of mutation.
